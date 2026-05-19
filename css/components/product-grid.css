@@ -80,7 +80,7 @@
         "highlight highlight"
         "sneaker-white sneaker-white"
         "model sneaker-color"
-        "model seneaker-silver"
+        "model sneaker-silver"
         "sneaker-purple sneaker-purple";
         max-width: 100%;
         gap: 0.625rem;
@@ -94,9 +94,8 @@
         min-height: 370px;
     }
 
-    .sneaker-white .sneaker-purple{
+    .sneaker-white, .sneaker-purple{
         min-height: 190px;
-    }
-    
+    }    
 }
 
